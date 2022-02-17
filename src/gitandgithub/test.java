@@ -6,7 +6,9 @@ public class test {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("nes test");
+		System.out.println("new test");
+		
+		System.out.println("for the test purpose to see in git hub");
 
 	}
 
